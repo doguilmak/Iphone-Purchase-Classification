@@ -12,7 +12,7 @@ Dataset is downloaded from [Omair Aasim's GitHub](https://github.com/omairaasim/
 
 ## Methodology
 
-In this project, as stated in the title, results were obtained through classifiaction methods such as ***Logistic Regression, SVC, Decision Tree*** and ***Random Forest***.  You are free to visit [Machine Learning: Classification Models](https://medium.com/fuzz/machine-learning-classification-models-3040f71e2529) website for learn the methods better.
+In this project, as stated in the title, results were obtained through classifiaction methods such as ***Logistic Regression, K-Nearest Neighbors(KNN), Support Vector Classification (SVC), Decision Tree*** and ***Random Forest***.  You are free to visit [Machine Learning: Classification Models](https://medium.com/fuzz/machine-learning-classification-models-3040f71e2529) website for learn the methods better.
 
 ## Analysis
 
